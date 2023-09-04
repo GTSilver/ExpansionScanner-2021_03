@@ -1,0 +1,30 @@
+D:\яя\Scaner 2.0\Scaner 2.0\bin\Debug\Scaner 2.0.exe.config
+D:\яя\Scaner 2.0\Scaner 2.0\bin\Debug\Scaner 2.0.exe
+D:\яя\Scaner 2.0\Scaner 2.0\bin\Debug\Scaner 2.0.pdb
+D:\яя\Scaner 2.0\Scaner 2.0\obj\Debug\Scaner 2.0.csprojAssemblyReference.cache
+D:\яя\Scaner 2.0\Scaner 2.0\obj\Debug\Scaner_2._0.Form1.resources
+D:\яя\Scaner 2.0\Scaner 2.0\obj\Debug\Scaner_2._0.Properties.Resources.resources
+D:\яя\Scaner 2.0\Scaner 2.0\obj\Debug\Scaner 2.0.csproj.GenerateResource.cache
+D:\яя\Scaner 2.0\Scaner 2.0\obj\Debug\Scaner 2.0.csproj.CoreCompileInputs.cache
+D:\яя\Scaner 2.0\Scaner 2.0\obj\Debug\Scaner 2.0.exe
+D:\яя\Scaner 2.0\Scaner 2.0\obj\Debug\Scaner 2.0.pdb
+D:\яя\Scaner 2.0\bin\Debug\Scaner 2.0.exe.config
+D:\яя\Scaner 2.0\bin\Debug\Scaner 2.0.exe
+D:\яя\Scaner 2.0\bin\Debug\Scaner 2.0.pdb
+D:\яя\Scaner 2.0\obj\Debug\Scaner 2.0.csprojAssemblyReference.cache
+D:\яя\Scaner 2.0\obj\Debug\Scaner_2._0.Form1.resources
+D:\яя\Scaner 2.0\obj\Debug\Scaner_2._0.Properties.Resources.resources
+D:\яя\Scaner 2.0\obj\Debug\Scaner 2.0.csproj.GenerateResource.cache
+D:\яя\Scaner 2.0\obj\Debug\Scaner 2.0.csproj.CoreCompileInputs.cache
+D:\яя\Scaner 2.0\obj\Debug\Scaner 2.0.exe
+D:\яя\Scaner 2.0\obj\Debug\Scaner 2.0.pdb
+D:\Рабочий стол\,Программирование\Visual Studio\Expansion Scanner\bin\Debug\Expansion Scanner.exe.config
+D:\Рабочий стол\,Программирование\Visual Studio\Expansion Scanner\bin\Debug\Expansion Scanner.exe
+D:\Рабочий стол\,Программирование\Visual Studio\Expansion Scanner\bin\Debug\Expansion Scanner.pdb
+D:\Рабочий стол\,Программирование\Visual Studio\Expansion Scanner\obj\Debug\Scaner 2.0.csprojAssemblyReference.cache
+D:\Рабочий стол\,Программирование\Visual Studio\Expansion Scanner\obj\Debug\Scaner_2._0.Form1.resources
+D:\Рабочий стол\,Программирование\Visual Studio\Expansion Scanner\obj\Debug\Expansion_Scanner.Properties.Resources.resources
+D:\Рабочий стол\,Программирование\Visual Studio\Expansion Scanner\obj\Debug\Scaner 2.0.csproj.GenerateResource.cache
+D:\Рабочий стол\,Программирование\Visual Studio\Expansion Scanner\obj\Debug\Scaner 2.0.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\,Программирование\Visual Studio\Expansion Scanner\obj\Debug\Expansion Scanner.exe
+D:\Рабочий стол\,Программирование\Visual Studio\Expansion Scanner\obj\Debug\Expansion Scanner.pdb

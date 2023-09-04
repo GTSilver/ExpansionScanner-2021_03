@@ -1,0 +1,30 @@
+D:\яя\Scaner 2.0\bin\Release\Scaner 2.0.exe.config
+D:\яя\Scaner 2.0\bin\Release\Scaner 2.0.exe
+D:\яя\Scaner 2.0\bin\Release\Scaner 2.0.pdb
+D:\яя\Scaner 2.0\obj\Release\Scaner_2._0.Form1.resources
+D:\яя\Scaner 2.0\obj\Release\Scaner_2._0.Properties.Resources.resources
+D:\яя\Scaner 2.0\obj\Release\Scaner 2.0.csproj.GenerateResource.cache
+D:\яя\Scaner 2.0\obj\Release\Scaner 2.0.csproj.CoreCompileInputs.cache
+D:\яя\Scaner 2.0\obj\Release\Scaner 2.0.exe
+D:\яя\Scaner 2.0\obj\Release\Scaner 2.0.pdb
+D:\яя\Scaner 2.0\obj\Release\Scaner 2.0.csprojAssemblyReference.cache
+D:\Рабочий стол\,Программирование\Visual Studio\Expansion Scanner\obj\Release\Scaner 2.0.csprojAssemblyReference.cache
+D:\Рабочий стол\,Программирование\Visual Studio\Expansion Scanner\obj\Release\Scaner_2._0.Form1.resources
+D:\Рабочий стол\,Программирование\Visual Studio\Expansion Scanner\obj\Release\Expansion_Scanner.Properties.Resources.resources
+D:\Рабочий стол\,Программирование\Visual Studio\Expansion Scanner\obj\Release\Scaner 2.0.csproj.GenerateResource.cache
+D:\Рабочий стол\,Программирование\Visual Studio\Expansion Scanner\obj\Release\Scaner 2.0.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\,Программирование\Visual Studio\Expansion Scanner\bin\Release\Expansion Scanner.exe.config
+D:\Рабочий стол\,Программирование\Visual Studio\Expansion Scanner\bin\Release\Expansion Scanner.exe
+D:\Рабочий стол\,Программирование\Visual Studio\Expansion Scanner\bin\Release\Expansion Scanner.pdb
+D:\Рабочий стол\,Программирование\Visual Studio\Expansion Scanner\obj\Release\Expansion Scanner.exe
+D:\Рабочий стол\,Программирование\Visual Studio\Expansion Scanner\obj\Release\Expansion Scanner.pdb
+D:\Рабочий стол\C#\Expansion Scanner\bin\Release\Expansion Scanner.exe.config
+D:\Рабочий стол\C#\Expansion Scanner\bin\Release\Expansion Scanner.exe
+D:\Рабочий стол\C#\Expansion Scanner\bin\Release\Expansion Scanner.pdb
+D:\Рабочий стол\C#\Expansion Scanner\obj\Release\Scaner 2.0.csproj.AssemblyReference.cache
+D:\Рабочий стол\C#\Expansion Scanner\obj\Release\Scaner_2._0.Form1.resources
+D:\Рабочий стол\C#\Expansion Scanner\obj\Release\Expansion_Scanner.Properties.Resources.resources
+D:\Рабочий стол\C#\Expansion Scanner\obj\Release\Scaner 2.0.csproj.GenerateResource.cache
+D:\Рабочий стол\C#\Expansion Scanner\obj\Release\Scaner 2.0.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\C#\Expansion Scanner\obj\Release\Expansion Scanner.exe
+D:\Рабочий стол\C#\Expansion Scanner\obj\Release\Expansion Scanner.pdb
